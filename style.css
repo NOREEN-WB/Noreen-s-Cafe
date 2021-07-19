@@ -11,10 +11,11 @@
     background-size: cover;
     position: relative;
 }
+/*-Dishes page header-*/
 .header2{
     min-height: 100vh;
     width: 100%;
-    background-image: url(Images/home7.jpg);
+    background-image: url(Images/home10.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
