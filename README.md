@@ -59,3 +59,38 @@ Other foreground and background color used in the sites are
   [Go to the top](#table-of-contents)
   
 This website consider of having images, audio/video that helps the users to understand the content easily. Having picture, audio/video consider worth a thousand words” when creating a web application. As far as possible all the images, video included in the website, is considered to be of high quality. The included audio/video is provided with control actions such as playing of audio/video that allows the user to initiate and control the actions.
+
+<a name="wireframes"></a>
+## 1.4 Site Skeleton
+  [Go to the top](#table-of-contents)
+ 
+[Balsamiq](https://balsamiq.com/) was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages (3 pages) prepared is presented below.
+
+<a name="introduction-page"></a>
+### Introduction Page
+
+![Desktop Version](Images/home1-wireframe-dextop.JPG)
+![Desktop Version](Images/home2-wireframe-dextop.JPG)
+![Desktop Version](Images/home3-wireframe-dextop.JPG)
+
+### About Page
+
+![Desktop Version](Images/about1-wireframe-dextop.JPG)
+
+
+<a name="dishes-page"></a>
+
+### Dishes Page
+
+![Desktop Version](Images/dish1-wireframe-dextop.JPG)
+![Desktop Version](Images/dish2-wireframe-dextop.JPG)
+![Desktop Version](Images/dish3-wireframe-dextop.JPG)
+![Desktop Version](Images/dish4-wireframe-dextop.JPG)
+
+
+<a name="conatct-page"></a>
+
+### Contact Page
+
+![Desktop Version](Images/contact1-wireframe-dextop.JPG)
+![Desktop Version](Images/contact2-wireframe-dextop.JPG)
