@@ -6,7 +6,12 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url("C:/Users/nwbut/OneDrive/Desktop/Noreen-s-Cafe/assets/images/home6.jpg");
+    background-image: url("../images/home6.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.header img{
     background-position: center;
     background-size: cover;
     position: relative;
@@ -14,7 +19,7 @@
 .header2{
     min-height: 100vh;
     width: 100%;
-    background-image: url("C:/Users/nwbut/OneDrive/Desktop/Noreen-s-Cafe/assets/images/home7.jpg");
+    background-image: url("../images/home7.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -22,7 +27,7 @@
 .header3{
     min-height: 80vh;
     width: 100%;
-    background-image: url("C:/Users/nwbut/OneDrive/Desktop/Noreen-s-Cafe/assets/images/contact.jpg");
+    background-image: url("../images/contact.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
